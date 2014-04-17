@@ -17,4 +17,10 @@ Cowsay reads you books one login at a time.
 </div>
 
 Script makes a DAT file for fortune based on your input text.
+
 Drops a line into ~/.bashrc to pipe random sentences to cowsay on login.
+
+Use it like this:
+	$ sudo apt-get install cowsay fortune-mod
+	$ git clone https://github.com/albert-decatur/cowread.git
+	$ sudo sh cowread/cowread.sh War+Peace.txt
