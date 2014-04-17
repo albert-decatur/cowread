@@ -3,15 +3,16 @@ cowread
 
 Cowsay reads you books one login at a time.
 
-<div> ________________________________________
-/ But besides the fact that cutting off  \
-| Napoleon with his army would have been |
-\ senseless, it was impossible.          /
- ----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
+<div>
+<pre style='color:black;background:;'>________________________________________
+/ But besides the fact that cutting off  \                                                                                     
+| Napoleon with his army would have been |                                                                                     
+\ senseless, it was impossible.          /                                                                                     
+ ----------------------------------------                                                                                      
+        \   ^__^                                                                                                               
+         \  (oo)\_______                                                                                                       
+            (__)\       )\/\                                                                                                   
+                ||----w |                                                                                                      
                 ||     ||
 </div>
 
