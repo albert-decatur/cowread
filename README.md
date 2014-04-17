@@ -1,7 +1,7 @@
 cowread
 =======
 
-Cowsay reads you books one login at a time.
+Make cowsay read you books one bash login at a time.
 
 <div>
 <pre style='color:black;background:;'>
